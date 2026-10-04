@@ -6,7 +6,7 @@ TravelVerse is a state-of-the-art, full-stack travel platform featuring live dat
 
 ## 🌟 Key Features
 
-- **🌐 35+ Iconic World Destinations**: Fully populated database seeded with top global and regional tourist spots across Asia, Europe, Americas, Middle East, Africa, and Oceania.
+- **🌐 150+ Iconic World Destinations**: Fully populated database seeded with top global and regional tourist spots across Asia, Europe, Americas, Middle East, Africa, and Oceania.
 - **🎯 Dynamic Filtering & Search**: Instant real-time filtering by experience categories (`Beaches`, `Mountains`, `Culture`, `Cities`, `Luxury`, `Romantic`, `Adventure`, `Nature`), rating, and search terms.
 - **🗺️ Interactive Map Explorer (`/map`)**: Geospatial visual layout showing all destination pins with instant popup details and itinerary triggers.
 - **✨ AI Trip Itinerary Planner (`/planner`)**: Generates multi-day customized travel plans with time slots, estimated costs, packing checklists, and local travel advice.
